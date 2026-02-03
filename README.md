@@ -11,7 +11,7 @@ The website highlights my skills, services, and real-world Shopify projects in a
 
 ## 🚀 Live Website
 
-🔗 https://kuhu106.github.io  
+🔗 https://kuhu106.github.io/bhaktimakadiya.github.io/  
 
 ---
 
