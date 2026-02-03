@@ -11,8 +11,7 @@ The website highlights my skills, services, and real-world Shopify projects in a
 
 ## 🚀 Live Website
 
-🔗 https://yourusername.github.io  
-*(Replace `yourusername` with your GitHub username)*
+🔗 https://kuhu106.github.io  
 
 ---
 
